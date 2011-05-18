@@ -65,7 +65,7 @@ For example to make a variable named `SPEED1` that is a number from 11 to 20 you
 	<!-- Random number 11 to 20. -->
 	<var id="SPEED1">11 + rand(9)</var>
 
-Note that you have access to all the properties and methods provided by that JavaScript Math object. The full list of which can be found here:
+Note that you have access to all the properties and methods provided by the JavaScript Math object. The full list of which can be found here:
 
 https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Math
 
